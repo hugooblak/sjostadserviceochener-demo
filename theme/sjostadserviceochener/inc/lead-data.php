@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Sjöstad Service & Energi AB',
+	'bransch'        => 'VVS-entreprenör',
 	'telefon'        => '070-311 67 35',
 	'telefon_tel'    => '+46703116735',
 	'betyg'          => '4,6',
